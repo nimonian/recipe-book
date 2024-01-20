@@ -1,0 +1,17 @@
+{
+  "name": "recipe-book",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0-rc.27"
+  }
+}
