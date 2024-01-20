@@ -14,10 +14,17 @@ export default defineConfig({
 
     sidebar: [
       {
+        text: 'Lunch',
+        collapsed: true,
         items: [
-          { text: 'Building blocks', link: '/markdown-examples' },
-          { text: 'Recipes', link: '/api-examples' }
+          { text: 'Chicken hummus bowl', link: '/recipes/mbwO3mob' },
+          { text: 'Classic swedish meatballs', link: '/recipes/v6LOetpF' }
         ]
+      },
+      {
+        text: 'Dinner',
+        collapsed: true,
+        items: [{ text: 'Seafood tagine', link: '/recipes/seafood-tagine' }]
       }
     ],
 

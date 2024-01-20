@@ -2,6 +2,8 @@
 title: Seafood tagine
 ---
 
+![Seafood tagine](../img/seafood-tagine.jpg)
+
 ## Ingredients
 
 - 1 tbsp vegetable oil
